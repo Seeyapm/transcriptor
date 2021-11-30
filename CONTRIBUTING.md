@@ -16,6 +16,9 @@ This project and everyone participating in it is governed by the [Code of Conduc
 This section gives detailed information on how to report bugs. Reporting a bug will help the community and maintainers of the repository. <br>
 Before reporting any bug, make sure it is correct and you have all the details with you. Fot creating any bug report, please fill out [the required template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md). This template will give us necessary information to help solve a bug faster.
 
+#### Suggesting Enhancements
+Any suggesting enhancements like adding new features or imporving existing functionalities, etc can done by following the below guidelines. They help maintainers understand your improvement. These can include the steps that you imagine you would take if the feature you're requesting existed.
+
 #### Before Submitting A Bug Report
 The following is a list of items you need to check before submitting a bug report. <br>
 
